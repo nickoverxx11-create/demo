@@ -2,6 +2,7 @@
   "name": "interactive-guide",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nickoverxx11-create.github.io/demo",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

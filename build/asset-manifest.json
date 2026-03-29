@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d464c33.css",
-    "main.js": "/static/js/main.3c562a2d.js",
-    "static/media/food.gif": "/static/media/food.ed5bba9ba4116a5de507.gif",
-    "static/media/tech.gif": "/static/media/tech.118e498e8cee0d570077.gif",
-    "static/media/pizza.png": "/static/media/pizza.98a781103c3c6a0d801a.png",
-    "static/media/3.png": "/static/media/3.32e652b18585d527b9ce.png",
-    "static/media/foodblog.png": "/static/media/foodblog.27f2aa3e157434936c73.png",
-    "static/media/1.png": "/static/media/1.274138c2a1f3447c4c14.png",
-    "static/media/2.png": "/static/media/2.b64ff706b12d570d4907.png",
-    "static/media/apple.png": "/static/media/apple.6db1ed55d3c65bb17ca8.png",
-    "static/media/park.png": "/static/media/park.3124d7ee9f608320aa01.png",
-    "static/media/recipeapp.png": "/static/media/recipeapp.cccf77b09546dc0b74a8.png",
-    "static/media/fridge.png": "/static/media/fridge.dfd53cbb142d47614a9b.png",
-    "static/media/laptop.png": "/static/media/laptop.2a69e8b4b786a0f75353.png",
-    "index.html": "/index.html",
-    "main.9d464c33.css.map": "/static/css/main.9d464c33.css.map",
-    "main.3c562a2d.js.map": "/static/js/main.3c562a2d.js.map"
+    "main.css": "/demo/static/css/main.9d464c33.css",
+    "main.js": "/demo/static/js/main.2b7b2295.js",
+    "static/media/food.gif": "/demo/static/media/food.ed5bba9ba4116a5de507.gif",
+    "static/media/tech.gif": "/demo/static/media/tech.118e498e8cee0d570077.gif",
+    "static/media/pizza.png": "/demo/static/media/pizza.98a781103c3c6a0d801a.png",
+    "static/media/3.png": "/demo/static/media/3.32e652b18585d527b9ce.png",
+    "static/media/foodblog.png": "/demo/static/media/foodblog.27f2aa3e157434936c73.png",
+    "static/media/1.png": "/demo/static/media/1.274138c2a1f3447c4c14.png",
+    "static/media/2.png": "/demo/static/media/2.b64ff706b12d570d4907.png",
+    "static/media/apple.png": "/demo/static/media/apple.6db1ed55d3c65bb17ca8.png",
+    "static/media/park.png": "/demo/static/media/park.3124d7ee9f608320aa01.png",
+    "static/media/recipeapp.png": "/demo/static/media/recipeapp.cccf77b09546dc0b74a8.png",
+    "static/media/fridge.png": "/demo/static/media/fridge.dfd53cbb142d47614a9b.png",
+    "static/media/laptop.png": "/demo/static/media/laptop.2a69e8b4b786a0f75353.png",
+    "index.html": "/demo/index.html",
+    "main.9d464c33.css.map": "/demo/static/css/main.9d464c33.css.map",
+    "main.2b7b2295.js.map": "/demo/static/js/main.2b7b2295.js.map"
   },
   "entrypoints": [
     "static/css/main.9d464c33.css",
-    "static/js/main.3c562a2d.js"
+    "static/js/main.2b7b2295.js"
   ]
 }
